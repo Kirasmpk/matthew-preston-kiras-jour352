@@ -19,10 +19,13 @@ img{
 	display:  none;
 }
 
-b{
+#title{
 	text-transform: uppercase;
 	font-size: 1.5em;
 	color:  #33485e;
+	font-weight: 600;
+	text-align: center;
+	margin: 20px 0 0 0;
 }
 
 .sectionheader {
@@ -57,4 +60,20 @@ ul li {
 	font-size: 1em;
 }
 
+.menu{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
 
+.menu li {
+	display: inline;
+}
+
+#degrees {
+	margin: 5px 0 0 0;
+}
+
+#do{
+	margin: 5px 0 0 0;
+}

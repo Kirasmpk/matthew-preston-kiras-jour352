@@ -10,10 +10,10 @@ body {
 	color:  #33485e;
 	text-transform: uppercase;
 	text-align: center;
-	 border-bottom:;1px solid #334858;
-	 width:  60%;
-	 min-width: 300px;
-	 margin: 0 auto;
+	border-bottom: 1px solid #334858e;
+	width:  60%;
+	min-width: 300px;
+	margin: 0 auto;
 }
 img{
 	display:  none;
@@ -25,7 +25,7 @@ b{
 	color:  #33485e;
 }
 
-h2{
+.sectionheader {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	background-color: #33485e;

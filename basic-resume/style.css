@@ -77,3 +77,10 @@ ul li {
 #do{
 	margin: 5px 0 0 0;
 }
+
+#container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}

@@ -51,4 +51,17 @@ blockquote {
 	text-align: center;
 }
 
+.images figcaption {
+	font-size: 10px;
+	font-style: italic;
+}
 
+.graphic {
+	width: 900px;
+	text-align: center;
+}
+
+.graphic figcaption {
+	font-size: 12px;
+	font-style: italic;
+}

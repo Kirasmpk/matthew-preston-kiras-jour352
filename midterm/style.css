@@ -2,3 +2,18 @@
 	margin: 0 auto;
 	width: 900px;
 }
+#masthead {
+	text-align: center;
+	position: relative;
+	color: black;
+
+}
+
+#masthead img {
+	width: 100%;
+}
+
+h1 {
+	font-family: Helvertica, serif;
+
+	}

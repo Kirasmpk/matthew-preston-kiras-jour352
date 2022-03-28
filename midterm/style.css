@@ -11,9 +11,25 @@
 
 #masthead img {
 	width: 100%;
+	height: auto;
 }
 
 h1 {
 	font-family: Helvertica, serif;
 
 	}
+
+	#byline {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
+
+blockquote {
+	font-size: 2em;
+	color:  white;
+	background-color: black;
+	padding: 3px;
+	width: 85%;
+	text-align: center;
+}

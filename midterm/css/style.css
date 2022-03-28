@@ -1,17 +1,21 @@
-/* Fonts
-font-family: 'Montserrat', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Roboto', sans-serif;
-*/
-
 body {
-font-family: 'Open Sans', sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
 }
 
 #content {
 	margin: 0 auto;
 	width: 900px;
 }
+
 #masthead {
 	text-align: center;
 	position: relative;
@@ -24,25 +28,19 @@ font-family: 'Open Sans', sans-serif;
 	height: auto;
 }
 
-h1 {
-	font-family: Helvertica, serif;
-
-	}
-
-	#byline {
+#byline {
 	font-family: Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 11px;
 	font-style: italic;
 }
+
 /*This is a very powerful and inspirational quote and one that I need to implment*/
 
 blockquote {
 	font-size: 2em;
-	color:  white;
+	color: white;
 	background-color: black;
 	padding: 3px;
 	width: 85%;
 	text-align: center;
 }
-
-

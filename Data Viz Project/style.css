@@ -1,0 +1,10 @@
+style.css
+
+blockquote {
+	font-size: 2em;
+	color: white;
+	background-color: black;
+	padding: 3px;
+	width: 85%;
+	text-align: center;
+}

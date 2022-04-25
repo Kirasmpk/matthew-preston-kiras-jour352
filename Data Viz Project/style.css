@@ -1,9 +1,5 @@
 style.css
 
-body {
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 12px;
-}
 
 blockquote {
 	font-size: 2em;
@@ -13,3 +9,4 @@ blockquote {
 	width: 85%;
 	text-align: center;
 }
+

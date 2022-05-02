@@ -1,7 +1,7 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	text-align: center;
+	
 	
 }
 
@@ -15,6 +15,11 @@ blockquote {
 	text-align: center;
 }
 
+
+.pullquote {
+	text-align: center;
+	margin: 0px auto;
+}
 
 .navbar {
 padding:  10px;
